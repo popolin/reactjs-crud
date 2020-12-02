@@ -24,8 +24,8 @@ Part of Gostack Bootcamp at [RocketSeat](https://rocketseat.com.br).
 
 ## Tests:
 
--[X] should be able to list all the food plates from your api
--[X] should be able to add a new food plate
--[X] should be able to edit a food plate
--[X] should be able to remove a food plate
--[X] should be able to update the availibility of a food plate
+- [ ] should be able to list all the food plates from your api
+- [ ] should be able to add a new food plate
+- [ ] should be able to edit a food plate
+- [ ] should be able to remove a food plate
+- [ ] should be able to update the availibility of a food plate
